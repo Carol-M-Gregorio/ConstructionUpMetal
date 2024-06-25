@@ -31,14 +31,11 @@ Para instalar o projeto localmente, siga estas etapas:
     cd ConstructionUpMetal
     ```
 
-
 ## Uso
 
-Para usar o projeto, execute o seguinte comando:
+Recoemndado apenas para estudo e melhorias.
 
-```sh
-npm start
-```
+
 
 ## Demostração
 
