@@ -33,7 +33,7 @@ Para instalar o projeto localmente, siga estas etapas:
 
 ## Uso
 
-Recoemndado apenas para estudo e melhorias.
+Recomendo apenas para estudo e melhorias.
 
 
 
