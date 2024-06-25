@@ -30,10 +30,7 @@ Para instalar o projeto localmente, siga estas etapas:
     ```sh
     cd ConstructionUpMetal
     ```
-3. Instale as dependências:
-    ```sh
-    npm install
-    ```
+
 
 ## Uso
 
@@ -69,5 +66,5 @@ Carolina M Gregorio - Desenvolvedora do projeto
 
 ## Status do Projeto
 
-O projeto está em melhoria contínua.
+
 
